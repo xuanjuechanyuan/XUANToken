@@ -1,1 +1,1 @@
-# XUAN Token Smart Contract
+# XUAN Token Contract
