@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "truffle-flattener xuan_source.sol > xuan_flatten.sol"
+  },
+  "dependencies": {
+    "openzeppelin-solidity": "1.10.0"
+  }
+}
