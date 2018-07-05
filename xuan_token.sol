@@ -399,7 +399,7 @@ contract CappedToken is MintableToken {
  * @dev Entry point of token contract
  */
 contract XUANToken is CappedToken {
-  string public name = "XUAN Community Token";
+  string public name = "XUAN Token";
   string public symbol = "XUAN";
   uint8 public decimals = 18;
 
